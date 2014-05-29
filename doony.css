@@ -855,4 +855,6 @@ a.yuimenulabel, a.yuimenuitemlabel,
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-}
+}  
+
+#top-panel {background-color: #82b548 !important;}
