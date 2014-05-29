@@ -611,6 +611,7 @@ textarea {
   background-url: none;
   background-image: none;
   border-bottom: 1px solid #ccc;
+  background-color: #82b548 !important;
 }
 
 .yui-skin-sam #top-panel img {
@@ -623,6 +624,7 @@ textarea {
   background-image: none;
   margin: 7px;
 }
+
 
 /******************* side panel styles ***********************/
 #side-panel {
@@ -857,4 +859,3 @@ a.yuimenulabel, a.yuimenuitemlabel,
   -moz-box-sizing: border-box;
 }  
 
-#top-panel {background-color: #82b548 !important;}
